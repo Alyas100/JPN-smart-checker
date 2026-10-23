@@ -1,0 +1,73 @@
+{
+  "jenis_pendaftaran": null,
+  "maklumat_kanak_kanak": {
+    "nama_penuh": null,
+    "tarikh_kelahiran": null,
+    "waktu_kelahiran": {
+      "masa": null,
+      "tempoh": null
+    },
+    "jantina": null,
+    "tempat_kelahiran": null,
+    "kelahiran_ke": null,
+    "kedudukan_jika_kembar": null
+  },
+  "maklumat_bapa": {
+    "nama_penuh": null,
+    "no_kad_pengenalan": null,
+    "tarikh_lahir": null,
+    "kewarganegaraan": null,
+    "bangsa": null,
+    "agama": null,
+    "alamat_tempat_tinggal": null,
+    "poskod": null,
+    "no_telefon_bimbit": null
+  },
+  "maklumat_ibu": {
+    "nama_penuh": null,
+    "no_kad_pengenalan": null,
+    "tarikh_lahir": null,
+    "kewarganegaraan": null,
+    "bangsa": null,
+    "agama": null,
+    "alamat_tempat_tinggal": null,
+    "poskod": null,
+    "no_telefon_bimbit": null,
+    "status_perkahwinan": null
+  },
+  "maklumat_pemberi_maklumat": {
+    "nama_penuh": null,
+    "no_kad_pengenalan": null,
+    "hubungan_dengan_kanak_kanak": null,
+    "alamat_surat_menyurat": null,
+    "poskod": null,
+    "no_telefon_bimbit": null,
+    "emel": null
+  },
+  "maklumat_saksi_kelahiran": {
+    "nama_penuh": null,
+    "no_kad_pengenalan": null,
+    "alamat": null,
+    "poskod": null,
+    "no_telefon_bimbit": null,
+    "emel": null
+  },
+  "maklumat_kelahiran": {
+    "nama_penuh_kanak_kanak": null,
+    "tarikh_kelahiran": null,
+    "waktu_kelahiran": {
+      "masa": null,
+      "tempoh": null
+    },
+    "tempat_kelahiran": null,
+    "daerah_kelahiran": null,
+    "negeri_kelahiran": null,
+    "jenis_kelahiran": null,
+    "bilangan_kelahiran": null,
+    "kedudukan_kelahiran": null,
+    "berat_semasa_lahir_kg": null,
+    "berat_semasa_lahir_gram": null,
+    "panjang_semasa_lahir_cm": null,
+    "jantina": null
+  }
+}
