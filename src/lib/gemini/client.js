@@ -1,4 +1,4 @@
-const GEMINI_MODEL = import.meta.env.VITE_GEMINI_MODEL ?? "gemini-2.5-flash";
+const GEMINI_MODEL = import.meta.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 
 /**
  * Low-level call to the Gemini generateContent endpoint.
@@ -11,10 +11,10 @@ const GEMINI_MODEL = import.meta.env.VITE_GEMINI_MODEL ?? "gemini-2.5-flash";
  *   curl ".../models/gemini-2.5-flash:generateContent" -H "x-goog-api-key: ..."
  */
 export async function callGemini(parts, { jsonOnly = true, signal } = {}) {
-  const geminiKey = import.meta.env.VITE_GEMINI_API_KEY;
+  const geminiKey = import.meta.env.GEMINI_API_KEY;
 
   if (!geminiKey) {
-    throw new Error("Missing VITE_GEMINI_API_KEY. Set it in your .env file.");
+    throw new Error("Missing GEMINI_API_KEY. Set it in your .env file.");
   }
 
   const response = await fetch(

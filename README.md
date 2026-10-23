@@ -105,8 +105,8 @@ npm install
 Create a local `.env` file in the project root. Do not commit this file:
 
 ```env
-VITE_GEMINI_API_KEY=your_gemini_api_key
-VITE_GEMINI_MODEL=gemini-2.0-flash
+GEMINI_API_KEY=your_gemini_api_key
+GEMINI_MODEL=gemini-2.0-flash
 ```
 
 Start the development server:
