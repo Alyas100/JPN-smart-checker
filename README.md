@@ -86,18 +86,15 @@ src/
 
 ## Sample files
 
-Use the sample files in [`sample-to-test/`](./sample-to-test/) to try the
-application:
+Click either link to download a ZIP archive containing the sample files to your
+computer:
 
-- [Download a sample JPN form](./sample-to-test/borang/borang-handwritten/borang-jpn.pdf)
-- [Download sample supporting documents](./sample-to-test/lampiran/lampiran%20handwritten/)
-- [Browse all form samples](./sample-to-test/borang/)
-- [Browse all supporting-document samples](./sample-to-test/lampiran/)
+- [Download the JPN form samples](./sample-to-test/borang-samples.zip)
+- [Download the supporting-document samples](./sample-to-test/lampiran-samples.zip)
 
-The `borang` folder contains the form to upload as the completed form. The
-matching files in `lampiran` are the supporting documents to upload with it.
-Additional sample sets are available in the `borang-type-*` and
-`lampiran-all-type-*` folders.
+The `borang` archive contains forms to upload as the completed form. The
+`lampiran` archive contains supporting documents to upload with them. The
+original folders are also available in [`sample-to-test/`](./sample-to-test/).
 
 ### Installation
 
