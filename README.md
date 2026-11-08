@@ -17,6 +17,14 @@ PDFs. JPN Smart Checker explores how AI can assist an officer or reviewer by
 organising the comparison workflow while keeping the individual results
 visible and reviewable.
 
+## Demo
+
+The following demo shows the JPN Smart Checker workflow: uploading a completed
+form and supporting documents, comparing the extracted values, reviewing
+matches and mismatches, and opening the highlighted source evidence.
+
+![JPN Smart Checker demo](./jpn-smart-checker-demo.gif)
+
 ## Features
 
 - Upload one completed form and multiple supporting attachments.
